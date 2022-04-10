@@ -1,2 +1,4 @@
-package com.medicensoya.loginproject.security;public class PasswordEncoder {
+package com.medicensoya.loginproject.security;
+
+public class PasswordEncoder {
 }
